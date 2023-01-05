@@ -1,6 +1,6 @@
-### Application Architecture
+# Application Architecture
 
-Remove network to IP
+On production remove network or host.docker.internal to IP
 
 1. Run Zookeeper & Kafka
 
@@ -106,3 +106,12 @@ Kafka Connect Connector
   }
 }
 ```
+
+## To Do
+
+- [ ] Security for Kafka Cluster
+- [ ] Kafka Connect sink connector Cassandra
+- [ ] Streaming ETL pipeline using ksqlDB
+- [ ] Streaming ETL pipeline to Meilisearch
+- [ ] Kafka consumer for realtime data
+- [ ] Change PostgreSQL to Patroni
