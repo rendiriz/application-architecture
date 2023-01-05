@@ -1,5 +1,7 @@
 # Application Architecture
 
+![Application Architecture](https://rendiriz.github.io/application-architecture/images/application-architecture.jpg)
+
 On production remove network or host.docker.internal to IP
 
 1. Run Zookeeper & Kafka
