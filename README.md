@@ -1,6 +1,6 @@
 # Application Architecture
 
-![Application Architecture](https://rendiriz.github.io/application-architecture/images/application-architecture.jpg)
+![Application Architecture](https://raw.githubusercontent.com/rendiriz/application-architecture/main/images/application-architecture.jpg)
 
 On production remove network or host.docker.internal to IP
 
